@@ -40,5 +40,6 @@ dependencies {
     }
     compile('org.springframework.security:spring-security-config:5.0.0.RC1')
     compile('org.springframework.security:spring-security-web:5.0.0.RC1')
+    compile('jstl:jstl:1.2')
     compile('org.slf4j:slf4j-jdk14:1.7.25')
 }
